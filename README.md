@@ -42,6 +42,4 @@ It will run on http://localhost:8080/.
 
 *NOTE:* For the most part, everything is running. I commented out the test steps in the frontend pom.xml because there is an issue with Jest not finding its files.
 
-I will be building up the tasks/roadmap in the next few weeks on Trello. https://trello.com/b/Af15jApM/vue-enterprise-spring-boot
-
 Thank you for stopping by!
